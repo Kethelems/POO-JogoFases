@@ -23,7 +23,7 @@ Projeto em Java que simula um jogo 2D onde:
 ## 🎮 Controles
 - **Setas direcionais**: movimentam o unicórnio
   - Pressionar duas ao mesmo tempo permite andar em diagonal
-- **Tecla de disparo (caso implementada)**: dispara o Raio Arco-Íris como tiro contra inimigos
+- **Tecla de disparo (espaço ou clique do mouse)**: dispara o Raio Arco-Íris como tiro contra inimigos
 
 ## ⚙️ Requisitos
 - Java JDK instalado
