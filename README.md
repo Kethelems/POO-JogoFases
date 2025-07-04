@@ -4,7 +4,7 @@
 Projeto em Java que simula um jogo 2D onde:
 - Você controla um **unicórnio jogador**
 - Derrota **inimigos** com seu tiro arco-íris
-- Avança até o **objetivo** ao final de cada fase
+- Avança até o **objetivo** ao final de cada fase e aumenta velocidade.
 - **Partículas de glitter** aparecem ao derrotar inimigos ou completar fases
 
 ## 📝 Classes principais
